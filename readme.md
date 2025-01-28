@@ -21,3 +21,11 @@ Liste des commandes git
 
 ## git log
 - Permet de lister les modifications (git log --oneline)
+
+## git branch 
+- Permet de créer une branche
+
+## git checkout
+- Permet de passer d'une branche à une autre
+- Permet de se déplacer d'une branche à une autre
+- Avec l'option -b checkout créé la branche si elle n'existe pas
