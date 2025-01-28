@@ -4,7 +4,6 @@ Liste des commandes git
 ## git init
 - Permet d'initialiser un répertoire 
 
-
 ## git add
 - Permet d'ajouter un fichier ou des modification dans le stagging
 
