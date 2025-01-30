@@ -49,3 +49,6 @@ Liste des commandes git
 
 ## git diff 
 - Permet de comparer deux commits
+
+## git clone
+- Permet de récupérer tout le projet
